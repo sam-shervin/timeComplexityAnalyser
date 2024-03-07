@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <ctime>
-#include "matplotlibcpp.h"
+#include "../matplotlibcpp.h"
 namespace plt = matplotlibcpp;
 using namespace std;
 
