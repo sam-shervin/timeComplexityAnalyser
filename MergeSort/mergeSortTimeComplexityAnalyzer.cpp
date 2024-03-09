@@ -2,7 +2,7 @@
 #include <vector>
 #include <ctime>
 #include <limits.h>
-#include "matplotlibcpp.h"
+#include "../matplotlibcpp.h"
 namespace plt = matplotlibcpp;
 using namespace std;
 
