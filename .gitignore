@@ -1,2 +1,5 @@
 .vscode
 timeComplexityAnalyser.dSYM
+.history
+.DS_Store
+.gitignore
