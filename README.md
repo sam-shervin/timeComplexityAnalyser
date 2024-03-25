@@ -2,7 +2,7 @@
 
 This repository contains all my lab submissions for the course *Design and Analysis of Algorithms*.
 
-Use this command to run the cpp files. Replace with appropriate filenames and includePaths
+Use this command to run the cpp files. Replace with appropriate filenames and includePaths.
 
 ```
 cd InsertionSort
